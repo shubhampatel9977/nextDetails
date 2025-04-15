@@ -7,4 +7,4 @@ export default async function DynamicBlog({ params }) {
         <p>Blog Id - {blogId}</p>
       </>
     );
-  }
+};

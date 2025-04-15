@@ -1,3 +1,7 @@
+export const metadata = {
+  title: 'Service Child'
+}
+
 export default function ServiceLayout({ children }) {
     return (
       <>

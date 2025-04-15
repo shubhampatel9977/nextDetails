@@ -11,6 +11,8 @@ export default function Home() {
         <p><Link href="/blogs">Blog - Dynamic / Nested Dynamic Routing</Link></p>
         <p><Link href="/static-files/a/b/c/d/e">FilePath - Catch All Routes</Link></p>
         <p><Link href="/static-files2">FilePath - Optinal Catch All Routes</Link></p>
+        <p><Link href="/not-found-page">Common Not Found Page</Link></p>
+        <p><Link href="/services/abc123">Specific Not Found Page</Link></p>
       </div>
     </>
   );
