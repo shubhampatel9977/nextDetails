@@ -6,6 +6,7 @@ export default function Home() {
       <h1>Welcome to NEXT</h1>
 
       <div>
+        <p><Link href="/dashboard">Admin Dashboard - Group Route</Link></p>
         <p><Link href="/about">About</Link></p>
         <p><Link href="/services">Services - Nested Routing</Link></p>
         <p><Link href="/blogs">Blog - Dynamic / Nested Dynamic Routing</Link></p>
